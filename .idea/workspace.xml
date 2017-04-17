@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,10 +20,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="-22666">
               <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="100" selection-end-line="481" selection-end-column="100" />
               <folding>
                 <marker date="1492459087364" expanded="true" signature="2583:2594" ph="..." />
@@ -36,14 +36,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
+            <state relative-caret-position="303">
+              <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
               <folding>
                 <element signature="e#6208#6215#0" expanded="true" />
-                <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
               </folding>
             </state>
           </provider>
@@ -129,8 +128,8 @@
         <option value="$PROJECT_DIR$/fonts/flaticons/flaticon-set-charity.html" />
         <option value="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" />
         <option value="/" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -601,7 +600,7 @@
       <workItem from="1492090026102" duration="4309000" />
       <workItem from="1492182239754" duration="14361000" />
       <workItem from="1492283646973" duration="6005000" />
-      <workItem from="1492443009996" duration="13339000" />
+      <workItem from="1492443009996" duration="13794000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -614,10 +613,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43713000" />
+    <option name="totallyTimeSpent" value="44168000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1600" height="840" extended-state="7" />
+    <frame x="0" y="27" width="1600" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -865,20 +864,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
-          <folding>
-            <element signature="e#6208#6215#0" expanded="true" />
-            <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="-22666">
           <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="100" selection-end-line="481" selection-end-column="100" />
           <folding>
             <marker date="1492459087364" expanded="true" signature="2583:2594" ph="..." />
@@ -886,6 +874,16 @@
             <marker date="1492459087364" expanded="true" signature="91551:91558" ph="×" />
             <marker date="1492459087364" expanded="true" signature="117246:117260" ph="..." />
             <marker date="1492459087364" expanded="true" signature="118498:118512" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding>
+            <element signature="e#6208#6215#0" expanded="true" />
           </folding>
         </state>
       </provider>
