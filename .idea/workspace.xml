@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,27 +20,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="863">
-              <caret line="2214" column="33" lean-forward="false" selection-start-line="2214" selection-start-column="33" selection-end-line="2214" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="2092" column="47" lean-forward="false" selection-start-line="2092" selection-start-column="47" selection-end-line="2092" selection-end-column="47" />
               <folding>
-                <marker date="1492455609168" expanded="true" signature="2583:2594" ph="..." />
-                <marker date="1492455609168" expanded="true" signature="91106:91113" ph="×" />
-                <marker date="1492455609168" expanded="true" signature="91452:91459" ph="×" />
-                <marker date="1492455609168" expanded="true" signature="117310:117324" ph="..." />
-                <marker date="1492455609168" expanded="true" signature="118562:118576" ph="..." />
+                <marker date="1492457692024" expanded="true" signature="2583:2594" ph="..." />
+                <marker date="1492457692024" expanded="true" signature="91106:91113" ph="×" />
+                <marker date="1492457692024" expanded="true" signature="91452:91459" ph="×" />
+                <marker date="1492457692024" expanded="true" signature="117076:117090" ph="..." />
+                <marker date="1492457692024" expanded="true" signature="118520:118534" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+            <state relative-caret-position="583">
+              <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
               <folding>
                 <element signature="e#6208#6215#0" expanded="true" />
                 <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
@@ -84,7 +83,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mon-fr</find>
       <find>footer</find>
       <find>side-pan</find>
       <find>menuzord-menu</find>
@@ -114,6 +112,7 @@
       <find>our mission</find>
       <find>object</find>
       <find>preloader</find>
+      <find>map</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -130,8 +129,8 @@
         <option value="$PROJECT_DIR$/fonts/flaticons/flaticon-set-charity.html" />
         <option value="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" />
         <option value="/" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -602,7 +601,7 @@
       <workItem from="1492090026102" duration="4309000" />
       <workItem from="1492182239754" duration="14361000" />
       <workItem from="1492283646973" duration="6005000" />
-      <workItem from="1492443009996" duration="11572000" />
+      <workItem from="1492443009996" duration="11941000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -615,7 +614,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41946000" />
+    <option name="totallyTimeSpent" value="42315000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -866,27 +865,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="863">
-          <caret line="2214" column="33" lean-forward="false" selection-start-line="2214" selection-start-column="33" selection-end-line="2214" selection-end-column="33" />
+        <state relative-caret-position="583">
+          <caret line="147" column="32" lean-forward="true" selection-start-line="147" selection-start-column="32" selection-end-line="147" selection-end-column="32" />
           <folding>
-            <marker date="1492455609168" expanded="true" signature="2583:2594" ph="..." />
-            <marker date="1492455609168" expanded="true" signature="91106:91113" ph="×" />
-            <marker date="1492455609168" expanded="true" signature="91452:91459" ph="×" />
-            <marker date="1492455609168" expanded="true" signature="117310:117324" ph="..." />
-            <marker date="1492455609168" expanded="true" signature="118562:118576" ph="..." />
+            <element signature="e#6208#6215#0" expanded="true" />
+            <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        <state relative-caret-position="255">
+          <caret line="2092" column="47" lean-forward="false" selection-start-line="2092" selection-start-column="47" selection-end-line="2092" selection-end-column="47" />
           <folding>
-            <element signature="e#6208#6215#0" expanded="true" />
-            <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
+            <marker date="1492457692024" expanded="true" signature="2583:2594" ph="..." />
+            <marker date="1492457692024" expanded="true" signature="91106:91113" ph="×" />
+            <marker date="1492457692024" expanded="true" signature="91452:91459" ph="×" />
+            <marker date="1492457692024" expanded="true" signature="117076:117090" ph="..." />
+            <marker date="1492457692024" expanded="true" signature="118520:118534" ph="..." />
           </folding>
         </state>
       </provider>
