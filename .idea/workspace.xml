@@ -23,14 +23,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
+            <state relative-caret-position="540">
+              <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="100" selection-end-line="481" selection-end-column="100" />
               <folding>
-                <marker date="1492458787636" expanded="true" signature="2583:2594" ph="..." />
-                <marker date="1492458787636" expanded="true" signature="91199:91206" ph="×" />
-                <marker date="1492458787636" expanded="true" signature="91545:91552" ph="×" />
-                <marker date="1492458787636" expanded="true" signature="117240:117254" ph="..." />
-                <marker date="1492458787636" expanded="true" signature="118492:118506" ph="..." />
+                <marker date="1492459087364" expanded="true" signature="2583:2594" ph="..." />
+                <marker date="1492459087364" expanded="true" signature="91205:91212" ph="×" />
+                <marker date="1492459087364" expanded="true" signature="91551:91558" ph="×" />
+                <marker date="1492459087364" expanded="true" signature="117246:117260" ph="..." />
+                <marker date="1492459087364" expanded="true" signature="118498:118512" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,7 +83,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>footer</find>
       <find>side-pan</find>
       <find>menuzord-menu</find>
       <find>make a donat</find>
@@ -113,6 +112,7 @@
       <find>object</find>
       <find>preloader</find>
       <find>map</find>
+      <find>buy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -601,7 +601,7 @@
       <workItem from="1492090026102" duration="4309000" />
       <workItem from="1492182239754" duration="14361000" />
       <workItem from="1492283646973" duration="6005000" />
-      <workItem from="1492443009996" duration="13038000" />
+      <workItem from="1492443009996" duration="13339000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -614,10 +614,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43412000" />
+    <option name="totallyTimeSpent" value="43713000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1600" height="840" extended-state="6" />
+    <frame x="0" y="27" width="1600" height="840" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -878,14 +878,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14">
-          <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
+        <state relative-caret-position="540">
+          <caret line="481" column="100" lean-forward="false" selection-start-line="481" selection-start-column="100" selection-end-line="481" selection-end-column="100" />
           <folding>
-            <marker date="1492458787636" expanded="true" signature="2583:2594" ph="..." />
-            <marker date="1492458787636" expanded="true" signature="91199:91206" ph="×" />
-            <marker date="1492458787636" expanded="true" signature="91545:91552" ph="×" />
-            <marker date="1492458787636" expanded="true" signature="117240:117254" ph="..." />
-            <marker date="1492458787636" expanded="true" signature="118492:118506" ph="..." />
+            <marker date="1492459087364" expanded="true" signature="2583:2594" ph="..." />
+            <marker date="1492459087364" expanded="true" signature="91205:91212" ph="×" />
+            <marker date="1492459087364" expanded="true" signature="91551:91558" ph="×" />
+            <marker date="1492459087364" expanded="true" signature="117246:117260" ph="..." />
+            <marker date="1492459087364" expanded="true" signature="118498:118512" ph="..." />
           </folding>
         </state>
       </provider>
