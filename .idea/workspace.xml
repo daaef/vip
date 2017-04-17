@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/our approach.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/css-plugin-collections.css" afterPath="$PROJECT_DIR$/css/css-plugin-collections.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style-main.css" afterPath="$PROJECT_DIR$/css/style-main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
+            <state relative-caret-position="863">
               <caret line="2214" column="33" lean-forward="false" selection-start-line="2214" selection-start-column="33" selection-end-line="2214" selection-end-column="33" />
               <folding>
                 <marker date="1492455609168" expanded="true" signature="2583:2594" ph="..." />
@@ -40,13 +37,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1624">
-              <caret line="173" column="29" lean-forward="false" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+            <state relative-caret-position="322">
+              <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
               <folding>
-                <element signature="e#6582#6589#0" expanded="true" />
+                <element signature="e#6208#6215#0" expanded="true" />
+                <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
               </folding>
             </state>
           </provider>
@@ -132,8 +130,8 @@
         <option value="$PROJECT_DIR$/fonts/flaticons/flaticon-set-charity.html" />
         <option value="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" />
         <option value="/" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -604,7 +602,7 @@
       <workItem from="1492090026102" duration="4309000" />
       <workItem from="1492182239754" duration="14361000" />
       <workItem from="1492283646973" duration="6005000" />
-      <workItem from="1492443009996" duration="10936000" />
+      <workItem from="1492443009996" duration="11572000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -617,7 +615,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41310000" />
+    <option name="totallyTimeSpent" value="41946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -868,19 +866,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1624">
-          <caret line="173" column="29" lean-forward="false" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
-          <folding>
-            <element signature="e#6582#6589#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
+        <state relative-caret-position="863">
           <caret line="2214" column="33" lean-forward="false" selection-start-line="2214" selection-start-column="33" selection-end-line="2214" selection-end-column="33" />
           <folding>
             <marker date="1492455609168" expanded="true" signature="2583:2594" ph="..." />
@@ -888,6 +876,17 @@
             <marker date="1492455609168" expanded="true" signature="91452:91459" ph="×" />
             <marker date="1492455609168" expanded="true" signature="117310:117324" ph="..." />
             <marker date="1492455609168" expanded="true" signature="118562:118576" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="47" column="18" lean-forward="false" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          <folding>
+            <element signature="e#6208#6215#0" expanded="true" />
+            <marker date="1492457320684" expanded="true" signature="6097:6358" ph="..." />
           </folding>
         </state>
       </provider>
