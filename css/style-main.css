@@ -46,7 +46,7 @@ This file contains the common styles of this theme.
 		* Job.less
 		* Shop.less
 		* Blog.less
-		* Shortcode.less 
+		* Shortcode.less
 			* Alerts.less
 			* Buttons.less
 			* Blockquote.less
@@ -112,7 +112,7 @@ body {
   line-height: 1.7;
   color: #777777;
   font-size: 13px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   background-color: #fff;
   background-attachment: fixed;
 }
@@ -171,7 +171,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-weight: 600;
   line-height: 1.42857143;
   color: #333333;
@@ -242,13 +242,13 @@ form {
 }
 /* -------- Custom Font Family ---------- */
 .font-raleway {
-  font-family: 'Raleway', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .font-opensans {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .font-Playfair {
-  font-family: 'Playfair Display', serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 /* breadcrumb */
 .breadcrumb {
@@ -1508,8 +1508,8 @@ section > .container-fluid {
     min-height: auto !important;
   }
 }
-/*  
- * Extra.less 
+/*
+ * Extra.less
  * -----------------------------------------------
 */
 /* -------- Heading Style ---------- */
@@ -1705,7 +1705,7 @@ section > .container-fluid {
   }
 }
 .menuzord-brand img {
-  max-height: 38px;
+  max-height: 68px;
 }
 /* -------- Inner Header ---------- */
 .inner-header .title {
@@ -2058,7 +2058,7 @@ section > .container-fluid {
 .menu-full-page #fullpage-nav li a {
   color: #111;
   font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   text-decoration: none;
   font-weight: 400;
   text-transform: uppercase;
@@ -3899,7 +3899,7 @@ textarea {
   background: none repeat scroll 0 0 transparent;
   border: 1px solid #ccc;
   border-radius: 3px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   height: 18px;
   left: 2.8571em;
   line-height: 1;
@@ -4219,7 +4219,7 @@ table.no-border td {
   padding-bottom: 30px;
 }
 .single-post article .entry-title {
-  font-family: "Open Sans", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   padding: 15px 0 0;
   text-transform: capitalize;
 }
@@ -4261,7 +4261,7 @@ table.no-border td {
   padding-left: 0;
 }
 .single-post .comment-list h6 {
-  font-family: helvetica;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .single-post .comment-list li {
   list-style: none;
@@ -4632,7 +4632,7 @@ blockquote.dark footer {
   color: #d3d3d3;
 }
 blockquote p {
-  font-family: "Playfair Display", serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 16px;
   font-style: italic;
 }
@@ -6022,7 +6022,7 @@ blockquote p {
 }
 .nav-tabs > li > a {
   border-radius: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 12px;
   color: #555555;
   padding: 12px 20px;
