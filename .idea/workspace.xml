@@ -23,14 +23,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="2092" column="47" lean-forward="false" selection-start-line="2092" selection-start-column="47" selection-end-line="2092" selection-end-column="47" />
+            <state relative-caret-position="14">
+              <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
               <folding>
-                <marker date="1492457692024" expanded="true" signature="2583:2594" ph="..." />
-                <marker date="1492457692024" expanded="true" signature="91106:91113" ph="×" />
-                <marker date="1492457692024" expanded="true" signature="91452:91459" ph="×" />
-                <marker date="1492457692024" expanded="true" signature="117076:117090" ph="..." />
-                <marker date="1492457692024" expanded="true" signature="118520:118534" ph="..." />
+                <marker date="1492458787636" expanded="true" signature="2583:2594" ph="..." />
+                <marker date="1492458787636" expanded="true" signature="91199:91206" ph="×" />
+                <marker date="1492458787636" expanded="true" signature="91545:91552" ph="×" />
+                <marker date="1492458787636" expanded="true" signature="117240:117254" ph="..." />
+                <marker date="1492458787636" expanded="true" signature="118492:118506" ph="..." />
               </folding>
             </state>
           </provider>
@@ -601,7 +601,7 @@
       <workItem from="1492090026102" duration="4309000" />
       <workItem from="1492182239754" duration="14361000" />
       <workItem from="1492283646973" duration="6005000" />
-      <workItem from="1492443009996" duration="11941000" />
+      <workItem from="1492443009996" duration="13038000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -614,7 +614,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42315000" />
+    <option name="totallyTimeSpent" value="43412000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -878,14 +878,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="2092" column="47" lean-forward="false" selection-start-line="2092" selection-start-column="47" selection-end-line="2092" selection-end-column="47" />
+        <state relative-caret-position="14">
+          <caret line="357" column="44" lean-forward="false" selection-start-line="357" selection-start-column="44" selection-end-line="357" selection-end-column="44" />
           <folding>
-            <marker date="1492457692024" expanded="true" signature="2583:2594" ph="..." />
-            <marker date="1492457692024" expanded="true" signature="91106:91113" ph="×" />
-            <marker date="1492457692024" expanded="true" signature="91452:91459" ph="×" />
-            <marker date="1492457692024" expanded="true" signature="117076:117090" ph="..." />
-            <marker date="1492457692024" expanded="true" signature="118520:118534" ph="..." />
+            <marker date="1492458787636" expanded="true" signature="2583:2594" ph="..." />
+            <marker date="1492458787636" expanded="true" signature="91199:91206" ph="×" />
+            <marker date="1492458787636" expanded="true" signature="91545:91552" ph="×" />
+            <marker date="1492458787636" expanded="true" signature="117240:117254" ph="..." />
+            <marker date="1492458787636" expanded="true" signature="118492:118506" ph="..." />
           </folding>
         </state>
       </provider>
