@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/css-plugin-collections.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flaticon-set-charity.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-animation.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/pe-icon-7-stroke.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/preloader.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-combined.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,41 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+            <state relative-caret-position="210">
+              <caret line="54" column="57" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
               <folding>
-                <marker date="1492639732853" expanded="true" signature="91444:91451" ph="×" />
-                <marker date="1492639732853" expanded="true" signature="91790:91797" ph="×" />
-                <marker date="1492639732853" expanded="true" signature="117493:117507" ph="..." />
-                <marker date="1492639732853" expanded="true" signature="118745:118759" ph="..." />
+                <marker date="1492640062253" expanded="true" signature="91266:91273" ph="×" />
+                <marker date="1492640062253" expanded="true" signature="91612:91619" ph="×" />
+                <marker date="1492640062253" expanded="true" signature="117315:117329" ph="..." />
+                <marker date="1492640062253" expanded="true" signature="118567:118581" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="23" column="101" lean-forward="false" selection-start-line="23" selection-start-column="101" selection-end-line="23" selection-end-column="101" />
+            <state relative-caret-position="168">
+              <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
               <folding>
-                <element signature="e#6412#6419#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-combined.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style-combined.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22077" lean-forward="false" selection-start-line="0" selection-start-column="22077" selection-end-line="0" selection-end-column="22077" />
-              <folding>
-                <element signature="e#324750#324839#2" expanded="true" />
-                <element signature="e#333642#338621#1" expanded="true" />
+                <element signature="e#6656#6663#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,10 +120,10 @@
         <option value="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" />
         <option value="/" />
         <option value="$PROJECT_DIR$/css/style-main.css" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/css/style-combined.css" />
         <option value="$PROJECT_DIR$/menuzord-skins/menuzord-boxed.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -638,7 +616,7 @@
       <workItem from="1492283646973" duration="6005000" />
       <workItem from="1492443009996" duration="13794000" />
       <workItem from="1492629700944" duration="3608000" />
-      <workItem from="1492634886991" duration="4419000" />
+      <workItem from="1492634886991" duration="4861000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -651,7 +629,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52195000" />
+    <option name="totallyTimeSpent" value="52637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -861,16 +839,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="23" column="101" lean-forward="false" selection-start-line="23" selection-start-column="101" selection-end-line="23" selection-end-column="101" />
-          <folding>
-            <element signature="e#6412#6419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme-skin-red.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1204">
@@ -883,10 +851,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22077" lean-forward="false" selection-start-line="0" selection-start-column="22077" selection-end-line="0" selection-end-column="22077" />
-          <folding>
-            <element signature="e#324750#324839#2" expanded="true" />
-            <element signature="e#333642#338621#1" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -900,13 +865,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="30" column="64" lean-forward="true" selection-start-line="30" selection-start-column="64" selection-end-line="30" selection-end-column="64" />
+        <state relative-caret-position="210">
+          <caret line="54" column="57" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
           <folding>
-            <marker date="1492639732853" expanded="true" signature="91444:91451" ph="×" />
-            <marker date="1492639732853" expanded="true" signature="91790:91797" ph="×" />
-            <marker date="1492639732853" expanded="true" signature="117493:117507" ph="..." />
-            <marker date="1492639732853" expanded="true" signature="118745:118759" ph="..." />
+            <marker date="1492640062253" expanded="true" signature="91266:91273" ph="×" />
+            <marker date="1492640062253" expanded="true" signature="91612:91619" ph="×" />
+            <marker date="1492640062253" expanded="true" signature="117315:117329" ph="..." />
+            <marker date="1492640062253" expanded="true" signature="118567:118581" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="39" column="57" lean-forward="false" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+          <folding>
+            <element signature="e#6656#6663#0" expanded="true" />
           </folding>
         </state>
       </provider>
