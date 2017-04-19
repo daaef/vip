@@ -2,170 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-brown.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-gray.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-green.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-red.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-rose.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-yellow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/css-plugin-collections.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/elegant-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_444444_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_555555_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_777620_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_777777_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_cc0000_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-border-bottom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-border-boxed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-border-left.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-border-top-bottom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-border-top.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-bottom-trace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-colored.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-gradient.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-rounded-boxed.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-shadow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-strip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-subcolored.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-top-bottom-boxed-border.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/preloader.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/slick-slider/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/slick-slider/fonts/slick.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/slick-slider/fonts/slick.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/slick-slider/fonts/slick.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/slick-slider/fonts/slick.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/stroke-gap-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-main-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-main-rtl-extra.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-main-rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ElegantIcons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ElegantIcons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ElegantIcons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/ElegantIcons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/map-marker2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/map-marker3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/payment-card-logo-sm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/payment-card-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/10.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/11.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/12.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/8.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/preloaders/9.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/.~lock.VICAMPRO_INVESTMENT_PLAN_website.pptx#" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/approac.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/author.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/features.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/member-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/obj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/our approach.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pic33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/regbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider/slider-1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider/slider-3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/appointment.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/job.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/PHPMailerAutoload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/class.phpmailer.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/class.phpmaileroauth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/class.phpmaileroauthgoogle.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/class.pop3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/class.smtp.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/phpmailer/get_oauth_token.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/sendemail-with-autoresponder.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/twitter/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/twitter/tweet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/twitter/twitteroauth/OAuth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/includes/twitter/twitteroauth/twitteroauth.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/google-map-init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/fr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/ig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/post.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/revolution_slide1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/revolution_slide2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/tw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/vm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/wc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/sources/yt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/layers.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/ares.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/dione.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/erinyen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/gyges.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/hades.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/hebe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/hephaistos.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/hermes.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/hesperiden.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/metis.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/persephone.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/uranus.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation-skins/zeus.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/settings.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/font-awesome/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/css/helper.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/css/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/fonts/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/pe-icon-7-stroke/index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/map-marker.png" afterPath="$PROJECT_DIR$/images/map-marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/title-dots.png" afterPath="$PROJECT_DIR$/images/title-dots.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/approach.png" afterPath="$PROJECT_DIR$/img/approach.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/crowd.png" afterPath="$PROJECT_DIR$/img/crowd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/debt.png" afterPath="$PROJECT_DIR$/img/debt.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/equity.png" afterPath="$PROJECT_DIR$/img/equity.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/farmslide.jpg" afterPath="$PROJECT_DIR$/img/farmslide.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logon.png" afterPath="$PROJECT_DIR$/img/logon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/obj.png" afterPath="$PROJECT_DIR$/img/obj.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/our_approach.png" afterPath="$PROJECT_DIR$/img/our_approach.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/2iE_logo.png" afterPath="$PROJECT_DIR$/img/sponsors/2iE_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/beinlich.png" afterPath="$PROJECT_DIR$/img/sponsors/beinlich.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/eima.png" afterPath="$PROJECT_DIR$/img/sponsors/eima.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/europlant.png" afterPath="$PROJECT_DIR$/img/sponsors/europlant.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/grimme.png" afterPath="$PROJECT_DIR$/img/sponsors/grimme.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/schneider.png" afterPath="$PROJECT_DIR$/img/sponsors/schneider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sponsors/syngenta.png" afterPath="$PROJECT_DIR$/img/sponsors/syngenta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vipslide2.jpg" afterPath="$PROJECT_DIR$/img/vipslide2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style-main.css" afterPath="$PROJECT_DIR$/css/style-main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
@@ -185,28 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="77" />
+            <state relative-caret-position="266">
+              <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
               <folding>
-                <marker date="1492633595145" expanded="true" signature="91227:91234" ph="×" />
-                <marker date="1492633595145" expanded="true" signature="91573:91580" ph="×" />
-                <marker date="1492633595145" expanded="true" signature="117276:117290" ph="..." />
-                <marker date="1492633595145" expanded="true" signature="118528:118542" ph="..." />
+                <marker date="1492635234081" expanded="true" signature="91156:91163" ph="×" />
+                <marker date="1492635234081" expanded="true" signature="91502:91509" ph="×" />
+                <marker date="1492635234081" expanded="true" signature="117205:117219" ph="..." />
+                <marker date="1492635234081" expanded="true" signature="118457:118471" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="134" column="96" lean-forward="true" selection-start-line="134" selection-start-column="96" selection-end-line="134" selection-end-column="96" />
+            <state relative-caret-position="266">
+              <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
               <folding>
-                <element signature="e#6590#6597#0" expanded="true" />
+                <element signature="e#6519#6526#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -262,8 +99,8 @@
         <option value="$PROJECT_DIR$/fonts/flaticons/flaticon-set-charity.html" />
         <option value="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.css" />
         <option value="/" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -765,7 +602,7 @@
       <workItem from="1492283646973" duration="6005000" />
       <workItem from="1492443009996" duration="13794000" />
       <workItem from="1492629700944" duration="3608000" />
-      <workItem from="1492634886991" duration="76000" />
+      <workItem from="1492634886991" duration="348000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -778,7 +615,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47852000" />
+    <option name="totallyTimeSpent" value="48124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
@@ -940,25 +777,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="48" selection-end-column="77" />
+        <state relative-caret-position="266">
+          <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
           <folding>
-            <marker date="1492633595145" expanded="true" signature="91227:91234" ph="×" />
-            <marker date="1492633595145" expanded="true" signature="91573:91580" ph="×" />
-            <marker date="1492633595145" expanded="true" signature="117276:117290" ph="..." />
-            <marker date="1492633595145" expanded="true" signature="118528:118542" ph="..." />
+            <element signature="e#6519#6526#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="134" column="96" lean-forward="true" selection-start-line="134" selection-start-column="96" selection-end-line="134" selection-end-column="96" />
+        <state relative-caret-position="266">
+          <caret line="19" column="70" lean-forward="false" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
           <folding>
-            <element signature="e#6590#6597#0" expanded="true" />
+            <marker date="1492635234081" expanded="true" signature="91156:91163" ph="×" />
+            <marker date="1492635234081" expanded="true" signature="91502:91509" ph="×" />
+            <marker date="1492635234081" expanded="true" signature="117205:117219" ph="..." />
+            <marker date="1492635234081" expanded="true" signature="118457:118471" ph="..." />
           </folding>
         </state>
       </provider>
