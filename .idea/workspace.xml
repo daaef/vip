@@ -2,82 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/colors/theme-skin-red.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/css-plugin-collections.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/custom-bootstrap-margin-padding.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/flaticon-set-charity.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome-animation.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/menuzord-skins/menuzord-boxed.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/pe-icon-7-stroke.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/preloader.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/theme-skin-red.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-plugin-collection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/coloredbg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/gridtile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/gridtile_3x3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/gridtile_3x3_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/gridtile_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/assets/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/closedhand.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/navigation.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/openhand.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/css/settings.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/revicons/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/revicons/revicons.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/revicons/revicons.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/revicons/revicons.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/fonts/revicons/revicons.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.actions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.migration.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.navigation.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.parallax.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/revolution.extension.video.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.actions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.kenburn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.layeranimation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.migration.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.parallax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.slideanims.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/extensions/source/revolution.extension.video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/jquery.themepunch.enablelog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/jquery.themepunch.revolution.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/jquery.themepunch.tools.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/source/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/source/jquery.themepunch.enablelog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/source/jquery.themepunch.revolution.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/js/source/jquery.themepunch.tools.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/facebook/class-facebook.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/flickr/class-flickr.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/instagram/class-instagram.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/twitter/RestApi.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/twitter/class-twitter.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/twitter/connection/Application.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/twitter/connection/ConnectionAbstract.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/twitter/connection/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/vimeo/class-vimeo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/revolution-slider/php/youtube/class-youtube.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/menuzord-skins/menuzord-boxed.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme-skin-red.min.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/combine.js" afterPath="$PROJECT_DIR$/js/combine.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,8 +39,8 @@
       <file leaf-file-name="combine.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/combine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67166">
-              <caret line="624" column="32598" lean-forward="false" selection-start-line="624" selection-start-column="32598" selection-end-line="624" selection-end-column="32598" />
+            <state relative-caret-position="-67152">
+              <caret line="625" column="0" lean-forward="false" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#36870#36958#0" expanded="false" />
@@ -124,7 +49,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="combine.min.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="combine.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/combine.min.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="574">
@@ -139,13 +64,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
+            <state relative-caret-position="518">
+              <caret line="156" column="46" lean-forward="false" selection-start-line="156" selection-start-column="46" selection-end-line="156" selection-end-column="46" />
               <folding>
-                <element signature="e#6657#6664#0" expanded="true" />
+                <element signature="e#6422#6429#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -205,10 +130,10 @@
         <option value="$PROJECT_DIR$/css/style-combined.css" />
         <option value="$PROJECT_DIR$/menuzord-skins/menuzord-boxed.min.css" />
         <option value="$PROJECT_DIR$/css/combine.css" />
-        <option value="$PROJECT_DIR$/register.html" />
         <option value="$PROJECT_DIR$/js/combine.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/combine.min.css" />
+        <option value="$PROJECT_DIR$/register.html" />
       </list>
     </option>
   </component>
@@ -716,7 +641,7 @@
       <workItem from="1492443009996" duration="13794000" />
       <workItem from="1492629700944" duration="3608000" />
       <workItem from="1492634886991" duration="6360000" />
-      <workItem from="1492677011445" duration="6479000" />
+      <workItem from="1492677011445" duration="6727000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -729,11 +654,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60615000" />
+    <option name="totallyTimeSpent" value="60863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1600" height="840" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -749,7 +674,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.224375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.224375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Assets" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -965,16 +891,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="34" column="50" lean-forward="false" selection-start-line="34" selection-start-column="50" selection-end-line="34" selection-end-column="50" />
-          <folding>
-            <element signature="e#6657#6664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery-plugin-collection.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14">
@@ -993,24 +909,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/combine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67166">
-          <caret line="624" column="32598" lean-forward="false" selection-start-line="624" selection-start-column="32598" selection-end-line="624" selection-end-column="32598" />
+        <state relative-caret-position="-67152">
+          <caret line="625" column="0" lean-forward="false" selection-start-line="625" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#36870#36958#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="1903" column="0" lean-forward="false" selection-start-line="1903" selection-start-column="0" selection-end-line="1903" selection-end-column="0" />
-          <folding>
-            <marker date="1492685974904" expanded="true" signature="79661:79668" ph="×" />
-            <marker date="1492685974904" expanded="true" signature="80007:80014" ph="×" />
-            <marker date="1492685974904" expanded="true" signature="105423:105437" ph="..." />
-            <marker date="1492685974904" expanded="true" signature="106675:106689" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1032,6 +935,29 @@
             <element signature="e#211749#216728#1" expanded="true" />
             <element signature="e#433979#434068#2" expanded="true" />
             <element signature="e#442871#447850#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1903" column="0" lean-forward="false" selection-start-line="1903" selection-start-column="0" selection-end-line="1903" selection-end-column="0" />
+          <folding>
+            <marker date="1492685974904" expanded="true" signature="79661:79668" ph="×" />
+            <marker date="1492685974904" expanded="true" signature="80007:80014" ph="×" />
+            <marker date="1492685974904" expanded="true" signature="105423:105437" ph="..." />
+            <marker date="1492685974904" expanded="true" signature="106675:106689" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="156" column="46" lean-forward="false" selection-start-line="156" selection-start-column="46" selection-end-line="156" selection-end-column="46" />
+          <folding>
+            <element signature="e#6422#6429#0" expanded="true" />
           </folding>
         </state>
       </provider>
