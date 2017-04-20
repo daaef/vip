@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab219a08-52b6-4841-8eaa-706d97016e9a" name="Default" comment="created register.html added some photos, changed the top four sections of the site. and more...">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-plugin-collection.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.html" afterPath="$PROJECT_DIR$/register.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,14 +26,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="144" column="41" lean-forward="false" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
+            <state relative-caret-position="-249">
+              <caret line="1429" column="24" lean-forward="false" selection-start-line="1429" selection-start-column="19" selection-end-line="1429" selection-end-column="24" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1492688701952" expanded="true" signature="80071:80078" ph="×" />
-                <marker date="1492688701952" expanded="true" signature="80417:80424" ph="×" />
-                <marker date="1492688701952" expanded="true" signature="105833:105847" ph="..." />
-                <marker date="1492688701952" expanded="true" signature="107085:107099" ph="..." />
+                <marker date="1492689018576" expanded="true" signature="80071:80078" ph="×" />
+                <marker date="1492689018576" expanded="true" signature="80417:80424" ph="×" />
+                <marker date="1492689018576" expanded="true" signature="105833:105847" ph="..." />
+                <marker date="1492689018576" expanded="true" signature="107085:107099" ph="..." />
               </folding>
             </state>
           </provider>
@@ -81,7 +83,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>back</find>
       <find>preloade</find>
       <find>slider-</find>
       <find>right</find>
@@ -111,6 +112,7 @@
       <find>.showhide</find>
       <find>colors</find>
       <find>style=&quot;</find>
+      <find>partne</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,10 +147,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
-    <option name="y" value="307" />
-    <option name="width" value="790" />
-    <option name="height" value="630" />
+    <option name="y" value="27" />
+    <option name="width" value="1600" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -643,7 +644,7 @@
       <workItem from="1492443009996" duration="13794000" />
       <workItem from="1492629700944" duration="3608000" />
       <workItem from="1492634886991" duration="6360000" />
-      <workItem from="1492677011445" duration="8576000" />
+      <workItem from="1492677011445" duration="9562000" />
     </task>
     <task id="LOCAL-00001" summary="changes on index and extra photos">
       <created>1492204622235</created>
@@ -656,10 +657,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62712000" />
+    <option name="totallyTimeSpent" value="63698000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="307" width="790" height="630" extended-state="0" />
+    <frame x="0" y="27" width="1600" height="840" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -676,7 +677,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45443037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.224375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Assets" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -953,14 +954,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="144" column="41" lean-forward="false" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
+        <state relative-caret-position="-249">
+          <caret line="1429" column="24" lean-forward="false" selection-start-line="1429" selection-start-column="19" selection-end-line="1429" selection-end-column="24" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1492688701952" expanded="true" signature="80071:80078" ph="×" />
-            <marker date="1492688701952" expanded="true" signature="80417:80424" ph="×" />
-            <marker date="1492688701952" expanded="true" signature="105833:105847" ph="..." />
-            <marker date="1492688701952" expanded="true" signature="107085:107099" ph="..." />
+            <marker date="1492689018576" expanded="true" signature="80071:80078" ph="×" />
+            <marker date="1492689018576" expanded="true" signature="80417:80424" ph="×" />
+            <marker date="1492689018576" expanded="true" signature="105833:105847" ph="..." />
+            <marker date="1492689018576" expanded="true" signature="107085:107099" ph="..." />
           </folding>
         </state>
       </provider>
